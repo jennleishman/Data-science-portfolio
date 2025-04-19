@@ -20,7 +20,7 @@ You can reach me by:
 
 ### Projects
 
-#### [Mini Project 1: Birds of Bryce Canyon National Park and Zion National Park](https://jennleishman.github.io/Mini-Project-1/)
+#### [Mini Project 1: Birds of Bryce Canyon National Park and Zion National Park](https://github.com/jennleishman/Mini-Project-1/blob/908c266f5f25ac0eac695ec7c2fed39b8ba125ee/mini_project_1/dataAnalysis.pdf)
 Analysis of bird species orders throughout Bryce Canyon and Zion National Parks in Utah, looking at distributions and endangered species statuses.
 
 #### [Mini Project 2: Exploring the Tidyverse with film data](https://jennleishman.github.io/Mini-Project-2/)
