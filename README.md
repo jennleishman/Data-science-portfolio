@@ -2,7 +2,9 @@
 ## Data Science Portfolio
 
 Hi! My name is Jenn, and I'm glad you found me!
-![IMG_3132](https://github.com/user-attachments/assets/b6e5f656-7d14-47d8-8069-23036e852450)
+
+<img src="https://github.com/user-attachments/assets/22f98bc2-397a-49e3-bb03-08c37e9fb86f" alt="Image of Jenn's face" width="300" height="200">
+
 
 Here, you can access some of my data science work in R utilizing the Tidyverse package for data tidying and visualization. 
 
