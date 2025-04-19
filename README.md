@@ -15,7 +15,7 @@ I am working on my BS in Computer Science from Simmons University, with an inten
 I am also working on receiving minors in both History and Data Science, and have primary interests in archival work and digitization work. My primary programming language is Python, and I have experience with R, SQL, NoSQL, XML, and Java.
 
 You can reach me by:
-[LinkedIn](https://www.linkedin.com/in/jenn-leishman-746590333/)
+[LinkedIn](https://www.linkedin.com/in/jenn-leishman-746590333/)<br>
 [Email](mailto:jennifermleishman@gmail.com)
 
 ### Projects
