@@ -26,4 +26,7 @@ Analysis of bird species orders throughout Bryce Canyon and Zion National Parks 
 #### [Mini Project 2: Exploring the Tidyverse with film data](https://jennleishman.github.io/Mini-Project-2/)
 Interactive learnr tutorial to introduce the Tidyverse to people new to R and data science, using simple anaylsis of blockbuster data.
 
+#### [Final Project: Spot It! Analyzing my 2024 Spotify listening data](https://jennleishman.github.io/Final-project/)
+Analysis and modeling of personal Spotify data and music listening habits based on hour of day and month of year.
+
 
